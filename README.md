@@ -2,4 +2,6 @@
 
 Presentación y Script de Introducción a R.
 
-Para descargar de click en "Clone or download" y luego "Download ZIP"
+La presentación contiene hipervinculos por favor reviselos antes de la practica.
+
+Para descargar los archivos de click en "Clone or download" y luego "Download ZIP"
