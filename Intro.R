@@ -381,3 +381,25 @@ str(mat3)
 
 ## Cree un nuevo objeto que contenga los mismo elemento del vector anterior.
 
+
+################################################################################
+##        Introducción a Swirl                                                ##
+################################################################################
+
+# Instalando swirl
+install.packages("swirl")
+
+# Cargando la libreria
+library(swirl)
+
+# Iniciando Swirl
+swirl()
+
+#Escriba su nombre en la ventana de consola (Asegurese de recordarlo para guardar y
+# acceder a su progreso)
+
+# Siga las instrucciones y seleccione el curso: "R Programming: The basics of programming in R" (1)
+
+# Seleccione la sección Basic Bulding Blocks (1)
+
+# para salir y guardar su progreso escriba en el prompt: bye()
