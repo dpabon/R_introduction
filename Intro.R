@@ -121,9 +121,8 @@ d=-3
 ## c mayor que d
 ## c menor o igual que d
 ## c igual a d
-c>d
-c<=d
-c==d
+
+
 ################################################################################
 ## R como calculadora - Operadores y funciones
 ?Syntax
